@@ -1,0 +1,9 @@
+.movie-card {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin-right: 11px;
+    height: 400px;
+    flex: 1 0 calc(100% - 1170px);
+    background-repeat: no-repeat;
+}
